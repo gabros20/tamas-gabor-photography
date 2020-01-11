@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Gábor Tamás",
-    "logo_img": "/images/GT-logo.png",
+    "logo_img": "/images/GT-logo.svg",
     "has_nav": true,
     "menu": {
       "actions": [
